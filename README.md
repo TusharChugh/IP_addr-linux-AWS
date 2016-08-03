@@ -23,3 +23,4 @@ The code spits the IP address of the device (Rpi/dragonboard running linux) to t
 4. <pre>$sudo aws configure</pre> and use the credentials (from above steps)
 
 #Get and running the code
+1. Clone the code
