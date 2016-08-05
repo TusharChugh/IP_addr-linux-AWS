@@ -27,7 +27,7 @@ The ipaws.py uses wlan0 (wifi) and a special number for USB-ethernet device. You
 #Get and running the code
 1. Clone the code
    <pre>git clone https://github.com/TusharChugh/IP_addr-linux-AWS.git</pre>
-2. Change the path of the ipaws.py file in ip_aws script (currently it is /home/linaro/Desktop/iphelper/)
+2. Change the path of the ipaws.py file in ip_aws script (currently it is /home/linaro/Desktop/IP_addr-linux-AWS/)
 3. Paste the ipaws script in /etc/network/if-up.d/
    <pre>cp ipaws /etc/network/if-up.d/</pre>
 4. Give the required permissions to run the script when the network restarts
