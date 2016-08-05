@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd /home/linaro/Desktop/iphelper/
+cd /home/linaro/Desktop/IP_addr-linux-AWS/
 
 sleep 5
 
