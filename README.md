@@ -36,6 +36,6 @@ The ipaws.py uses wlan0 (wifi) and a special number for USB-ethernet device. You
 #Test the code
 1. In /etc/network/if-up.d/. 
    <pre>sh ipaws</pre>
-2. You should see an entree in the device info table on dynamoDB
+2. You should see an entry in the device info table on dynamoDB
 3. If it worked, then try restarting the board and see if that works as well
 4. Congratulations, you are done!
